@@ -23,7 +23,7 @@ This is a simple and responsive web application built as part of the CODTECH Web
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - HTML5
 - CSS3
